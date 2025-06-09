@@ -311,7 +311,7 @@ body {
       @apply flex-center mt-10;
 
       img {
-        @apply object-contain h-[60vh];
+        @apply object-contain h-[60vh] scale-0;
       }
     }
 
